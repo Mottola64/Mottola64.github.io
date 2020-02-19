@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project - Baseball Stadium Tracker"
-date:       2020-02-19 03:05:39 +0000
+date:       2020-02-18 22:05:40 -0500
 permalink:  sinatra_project_-_baseball_stadium_tracker
 ---
 
