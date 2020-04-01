@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "MLB Showdown React/Redux Project"
-date:       2020-04-01 22:05:41 +0000
+date:       2020-04-01 18:05:43 -0400
 permalink:  mlb_showdown_react_redux_project
 ---
 
